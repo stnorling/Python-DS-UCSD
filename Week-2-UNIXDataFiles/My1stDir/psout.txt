@@ -1,0 +1,82 @@
+       0     752       0   ?    Aug 12 *** unknown ***
+       0    1300       0   ?    Aug 12 *** unknown ***
+       0    2840       0   ?    Aug 12 C:\Program Files (x86)\puush\puush.exe
+       0    2964       0   ?    Aug 12 *** unknown ***
+       0    3228       0   ?    Aug 12 C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\updateui.exe
+       0    3244       0   ?    Aug 12 *** unknown ***
+       0    3364       0   ?    Aug 12 *** unknown ***
+       0    4340       0   ?    Aug 12 *** unknown ***
+       0    4812       0   ?    Aug 12 *** unknown ***
+       0    4960       0   ?    Aug 12 *** unknown ***
+       0    5060       0   ?    Aug 12 *** unknown ***
+       0    5340       0   ?    Aug 12 *** unknown ***
+       0    5536       0   ?    Aug 12 C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\ismagent.exe
+       0    5756       0   ?    Aug 12 C:\Program Files (x86)\iTunes\iTunes.exe
+       0    6844       0   ?    Aug 12 *** unknown ***
+       0    7064       0   ?    Aug 12 *** unknown ***
+       0    7960       0   ?    Aug 12 C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+       0    8092       0   ?    Aug 12 C:\Program Files (x86)\NVIDIA Corporation\NVIDIA Update Core\NvTmru.exe
+       0    8256       0   ?    Aug 12 *** unknown ***
+       0    8324       0   ?    Aug 12 *** unknown ***
+       0    9800       0   ?    Aug 12 *** unknown ***
+       0   10904       0   ?    Aug 12 C:\Users\Sam\AppData\Local\messengerfordesktop\app-2.0.9\Messenger for Desktop.exe
+       0   11048       0   ?    Aug 12 C:\Program Files (x86)\Common Files\Apple\Mobile Device Support\AppleMobileDeviceHelper.exe
+       0   11164       0   ?    Aug 12 *** unknown ***
+       0   11356       0   ?    Sep 24 *** unknown ***
+       0   11508       0   ?    Aug 12 *** unknown ***
+       0   11648       0   ?    Aug 12 *** unknown ***
+       0   12140       0   ?    Aug 12 C:\Users\Sam\AppData\Local\messengerfordesktop\app-2.0.9\Messenger for Desktop.exe
+       0   12768       0   ?    Aug 12 *** unknown ***
+       0   12852       0   ?    Aug 12 *** unknown ***
+       0   13252       0   ?    Sep 24 *** unknown ***
+       0   13304       0   ?    Aug 12 *** unknown ***
+       0   13816       0   ?    Aug 12 *** unknown ***
+       0   14044       0   ?    Aug 12 *** unknown ***
+       0   15192       0   ?    Aug 12 *** unknown ***
+       0   15200       0   ?    Aug 12 *** unknown ***
+       0   15252       0   ?    Aug 12 C:\Program Files (x86)\Common Files\Apple\Apple Application Support\distnoted.exe
+       0   15788       0   ?    Aug 12 C:\Program Files (x86)\uTorrent\uTorrent.exe
+       0   15896       0   ?    Aug 12 *** unknown ***
+       0   15972       0   ?    Aug 12 *** unknown ***
+       0   16532       0   ?    Aug 12 C:\Program Files (x86)\iTunes\iTunesHelper.exe
+       0   18088       0   ?    Aug 12 *** unknown ***
+       0   18316       0   ?    Aug 12 *** unknown ***
+       0   19260       0   ?    Aug 15 *** unknown ***
+       0   19416       0   ?    Aug 12 C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+       0   19672       0   ?    Sep 18 *** unknown ***
+       0   20104       0   ?    Aug 12 *** unknown ***
+       0   20620       0   ?    Aug 12 *** unknown ***
+       0   26760       0   ?  22:51:23 *** unknown ***
+       0   27764       0   ?    Aug 27 *** unknown ***
+       0   44536       0   ?    Sep 24 *** unknown ***
+       0   44712       0   ?    Sep 24 *** unknown ***
+       0  138928       0   ?  19:11:38 *** unknown ***
+       0  139392       0   ?  19:12:25 *** unknown ***
+       0  140572       0   ?  19:12:27 *** unknown ***
+       0  171836       0   ?    Aug 26 *** unknown ***
+       0  176672       0   ?  19:45:37 C:\Octave\OCTAVE~1.1\bin\sort.exe
+       0  194800       0   ?    Aug 27 *** unknown ***
+       0  196052       0   ?    Aug 27 *** unknown ***
+       0  196180       0   ?    Aug 27 *** unknown ***
+       0  196352       0   ?    Aug 27 *** unknown ***
+       0  196556       0   ?    Aug 27 *** unknown ***
+       0  196596       0   ?    Aug 27 *** unknown ***
+       0  273396       0   ?    Sep 18 *** unknown ***
+       0  273400       0   ?    Sep 16 *** unknown ***
+       0  377032       0   ?    Sep 24 *** unknown ***
+       0  450672       0   ?    Sep 19 C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe
+       0  451088       0   ?    Sep 18 *** unknown ***
+       0  451416       0   ?    Sep 17 *** unknown ***
+       0  451704       0   ?    Sep 19 C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe
+       0  451732       0   ?    Sep 19 C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe
+       0  451960       0   ?    Sep 19 C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe
+       0  452360       0   ?    Sep 24 *** unknown ***
+       0  452380       0   ?    Sep 22 *** unknown ***
+       0  452828       0   ?    Sep 24 *** unknown ***
+       0  453076       0   ?    Sep 24 *** unknown ***
+       0  453588       0   ?    Sep 22 C:\Users\Sam\AppData\Local\messengerfordesktop\app-2.0.9\Messenger for Desktop.exe
+       0  454616       0   ?    Sep 24 *** unknown ***
+     Sam  178660  452628 con  19:45:37 /usr/bin/ps
+     Sam  178704  452628 con  19:45:37 /usr/bin/sort
+     Sam  452628       1 con    Sep 24 /usr/bin/bash
+     UID     PID    PPID TTY     STIME COMMAND

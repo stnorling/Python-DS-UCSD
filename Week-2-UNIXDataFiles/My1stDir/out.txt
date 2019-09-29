@@ -1,0 +1,10 @@
+/c/Users/Sam/Desktop/Python DS UCSD/Week-2-UNIXDataFiles/My1stDir
+total 5466
+drwxr-xr-x 2 Sam Administrators    4096 Sep 25  2019 .
+drwxr-xr-x 3 Sam Administrators    4096 Sep 25 22:02 ..
+-rw-r--r-- 1 Sam Administrators      64 Sep 25 22:21 fruits-sorted.txt
+-rw-r--r-- 1 Sam Administrators      49 Sep 25 22:25 fruits-unique.txt
+-rw-r--r-- 1 Sam Administrators      64 Sep 25 22:00 fruits.txt
+-rw-r--r-- 1 Sam Administrators     253 Sep 25 22:31 netuser.txt
+-rw-r--r-- 1 Sam Administrators      66 Sep 25  2019 out.txt
+-rw-r--r-- 1 Sam Administrators 5583442 Apr 10  2017 shakespeare.txt
